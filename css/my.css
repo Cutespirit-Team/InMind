@@ -1,0 +1,30 @@
+.myinfo-name{
+    color:  #c8c7d1;
+    /* left: 33%;
+    top:40%; */
+}
+.myinfo-id{
+    color:  #767886;
+    font-size: 5px;
+
+}
+.myinfo-resume{
+    color:  #767886;
+    font-size: 10px;
+
+}
+
+.card{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,0);
+    /* width: 50%; */
+    background-color: #272730;
+    border-radius: 25px;
+    height: auto;
+    width: 50%;
+    
+}
+
+
