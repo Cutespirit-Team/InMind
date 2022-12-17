@@ -15,7 +15,8 @@
             "建立首頁",
             "使用 Vue Cli 建構",
             "使用 Vue Router 建構",
-            "使用 PurgeCSS 減少 bundle 大小"
+            "使用 PurgeCSS 減少 bundle 大小",
+            "新增 Readme 多語言支持"
         ]
     }
 ]
