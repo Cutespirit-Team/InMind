@@ -1,0 +1,21 @@
+[
+    {
+        "version": "1.0.0",
+        "description": "第一版本",
+        "contents": [
+            "使用 php 建構"
+        ]
+    },
+    {
+        "version": "a2.0.0",
+        "description": "建構 Vue Cli",
+        "contents": [
+            "建立登入頁面",
+            "建立註冊頁面",
+            "建立首頁",
+            "使用 Vue Cli 建構",
+            "使用 Vue Router 建構",
+            "使用 PurgeCSS 減少 bundle 大小"
+        ]
+    }
+]
